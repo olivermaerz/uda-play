@@ -1,0 +1,17 @@
+# Python stuff
+venv/
+__pycache__/
+
+# Mac stuff
+.DS_Store
+
+# Project specific stuff
+project-brief.md
+udacity-starter-readme.md
+.ipynb_checkpoints/
+
+# Environments
+.env
+
+# Output files
+chromadb/
