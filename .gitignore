@@ -1,6 +1,7 @@
 # Python stuff
 venv/
 __pycache__/
+.ipynb_checkpoints/
 
 # Mac stuff
 .DS_Store
@@ -8,7 +9,7 @@ __pycache__/
 # Project specific stuff
 project-brief.md
 udacity-starter-readme.md
-.ipynb_checkpoints/
+rubric.md
 
 # Environments
 .env
