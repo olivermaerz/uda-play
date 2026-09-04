@@ -6,5 +6,3 @@ Add your API keys to a `.env` file: `OPENAI_API_KEY=your_key`, `CHROMA_OPENAI_AP
 
 Then run Part 1 with `Udaplay_01_starter_project.ipynb` (offline RAG / ChromaDB) and Part 2 with `Udaplay_02_starter_project.ipynb` (agent with retrieve, evaluate, and web search tools).
 
-If you sign up for Udacity, this is a [referral link](https://udacity.referralrock.com/l/OLIVERWOLF62/). Help out a poor AI student :)
-
